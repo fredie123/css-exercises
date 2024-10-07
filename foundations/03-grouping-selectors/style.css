@@ -1,0 +1,14 @@
+.art, .art2 
+{
+    font-size: 28px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.art
+{
+    background-color: black;
+    color: white;
+}
+.art2
+{
+    background-color: yellow;
+}
